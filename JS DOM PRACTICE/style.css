@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+}
+
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8dcfe3;
+
+}
+
+.facts-container{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 20rem;
+    height: 20rem;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* align-content: center; */
+    align-items: center;
+}
+
+#factpara{
+    font-size: 23px;
+    /* margin-top: 60px; */
+    color: #f7fcff;
+    
+    height: 70%;
+
+}
+
+#btn{
+    width: 5rem;
+    height: 2rem;
+    
+    background: #18ede2;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+
+}

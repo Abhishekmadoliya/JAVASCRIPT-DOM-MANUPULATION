@@ -1,0 +1,15 @@
+synchrounous ...........................................................................
+
+each instruction executes in a particular sequence according to programe.
+easch instruction waits for the previous instruction to completes its execution.
+consol.log(one);
+consol.log(two);
+consol.log(three)
+
+output: one two three
+
+asynchronous...........................................................................
+
+sometimes synchrounous programming blocks the nest imp instruction due to any cause in instruction and delay in the ui.
+but asynchronous programming dosent block flow of programe because the next instuction can executes if before instrucyion taking 
+time.
